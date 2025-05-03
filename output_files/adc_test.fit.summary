@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Jul 05 08:52:46 2023
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : adc_test
+Top-level Entity Name : adc_test
+Family : Cyclone IV E
+Device : EP4CE6F17C8
+Timing Models : Final
+Total logic elements : 779 / 6,272 ( 12 % )
+    Total combinational functions : 540 / 6,272 ( 9 % )
+    Dedicated logic registers : 597 / 6,272 ( 10 % )
+Total registers : 597
+Total pins : 23 / 180 ( 13 % )
+Total virtual pins : 0
+Total memory bits : 81,920 / 276,480 ( 30 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )
